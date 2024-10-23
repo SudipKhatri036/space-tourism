@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](/assets/screenshot/ssdesktop.png)
-![](/assets/screenshot/ssmobile.png)
+![](./public/assets/screenshot/ssdesktop.png)
+![](./public/assets/screenshot/ssmobile.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://space-tourismfrontend.netlify.app/)
+- Live Site URL: [https://space-tourismfrontend.netlify.app/](https://space-tourismfrontend.netlify.app/)
 
 ## My process
 
