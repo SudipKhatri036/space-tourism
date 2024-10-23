@@ -11,7 +11,7 @@ function AppDataProvider({ children }) {
     const getData = async () => {
       try {
         setIsLoading(true);
-        const res = await fetch("../src/api/data.json");
+        const res = await fetch("/api/data.json");
 
         if (!res.ok) return;
 
