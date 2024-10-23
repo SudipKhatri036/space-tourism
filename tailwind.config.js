@@ -4,18 +4,18 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        "hero-mobile": "url('./src/assets/home/background-home-mobile.jpg')",
-        "hero-tablet": "url('./src/assets/home/background-home-tablet.jpg')",
-        "hero-desktop": "url('./src/assets/home/background-home-desktop.jpg')",
+        "hero-mobile": "url('/assets/home/background-home-mobile.jpg')",
+        "hero-tablet": "url('/assets/home/background-home-tablet.jpg')",
+        "hero-desktop": "url('/assets/home/background-home-desktop.jpg')",
         "destination-mobile":
-          "url('./src/assets/destination/background-destination-mobile.jpg')",
+          "url('/assets/destination/background-destination-mobile.jpg')",
         "destination-tablet":
-          "url('./src/assets/destination/background-destination-tablet.jpg')",
+          "url('/assets/destination/background-destination-tablet.jpg')",
         "destination-desktop":
-          "url('./src/assets/destination/background-destination-desktop.jpg')",
-        "crew-mobile": "url('./src/assets/crew/background-crew-mobile.jpg')",
-        "crew-tablet": "url('./src/assets/crew/background-crew-tablet.jpg')",
-        "crew-desktop": "url('./src/assets/crew/background-crew-desktop.jpg')",
+          "url('/assets/destination/background-destination-desktop.jpg')",
+        "crew-mobile": "url('/assets/crew/background-crew-mobile.jpg')",
+        "crew-tablet": "url('/assets/crew/background-crew-tablet.jpg')",
+        "crew-desktop": "url('/assets/crew/background-crew-desktop.jpg')",
       },
       colors: {
         "light-white": "#D0D6F9",

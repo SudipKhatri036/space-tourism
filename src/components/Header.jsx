@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import hamOpen from "../assets/shared/icon-hamburger.svg";
-import hamClose from "../assets/shared/icon-close.svg";
-import logo from "../assets/shared/logo.svg";
+import hamOpen from "/assets/shared/icon-hamburger.svg";
+import hamClose from "/assets/shared/icon-close.svg";
+import logo from "/assets/shared/logo.svg";
 import { NavLink, useLocation } from "react-router-dom";
 
 const navItems = [
